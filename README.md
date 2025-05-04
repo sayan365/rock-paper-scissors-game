@@ -34,11 +34,11 @@ A simple and interactive Rock Paper Scissors game built with **HTML**, **CSS**, 
 - JavaScript
 
 ## 📷 Screenshot
+![image](https://github.com/user-attachments/assets/1d2654a9-0d70-4eea-aa6f-003b51677800)
+![image](https://github.com/user-attachments/assets/c555e99c-3540-443e-8cbf-36b15bcf19eb)
+![image](https://github.com/user-attachments/assets/46d703f3-9e04-4b4b-8426-b11397a35ff7)
+![image](https://github.com/user-attachments/assets/45f860c1-1b52-49f8-bbe7-201394255418)
 
-![Gameplay Screenshot](https://i.ibb.co/QFKBsF7h/image.png)
-![Gameplay Screenshot](https://i.ibb.co/6Js5Ty5b/image.png)
-![Gameplay Screenshot](https://i.ibb.co/qYnKcRjb/image.png)
-![Gameplay Screenshot](https://i.ibb.co/CKxrLLCT/image.png)
 ## 🙋‍♂️ Author
 Developed by **[(sayan365)](https://github.com/sayan365)**
 
